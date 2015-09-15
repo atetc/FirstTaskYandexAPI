@@ -23,7 +23,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by yasina on 14.08.15.
+ * Created by yasina on 14.09.15.
  */
 public class MainActivity extends Activity implements
         GoogleApiClient.ConnectionCallbacks,
